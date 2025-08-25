@@ -1,1 +1,11 @@
 streamlit
+torch
+torchvision
+Pillow
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+py7zr
+efficientnet_pytorch
